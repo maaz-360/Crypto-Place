@@ -3,7 +3,7 @@ import './Navbar.css'
 import logo from '../../assets/logo.png'
 import arrow_icon from '../../assets/arrow_icon.png'
 import { useContext } from 'react'
-import { CoinContext } from '../../context/Coincontext'
+import { CoinContext } from '../../context/CoinContext'
 import { Link } from 'react-router-dom'
 
 function Navbar() {
